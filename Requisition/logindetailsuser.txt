@@ -1,0 +1,14 @@
+****INSTRUCTION****
+* Make sure you have apache and mysql servers installed in your system
+* Store this folder (Requisition) in the htdocs in the XAMPP environment.
+* start apache and mysql servers
+* Open your browser and type "localhost/phpmyadmin"
+* Create a new database "Requisition"
+* Copy-paste user.sql file contents on SQL tab of phpmyadmin window. Run the sql commands
+* Open your browser and type "localhost/Requisition/login.php"
+
+Login Details for user :
+Username : user
+Password : user12345
+
+*You can also create your own account and use your details to log into the system
